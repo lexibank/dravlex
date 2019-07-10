@@ -13,6 +13,7 @@
     "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "DravLex: A Dravidian lexical database",
+    "dcat:accessURL": "https://github.com/lexibank/dravlex",
     "rdf:ID": "dravlex",
     "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
     "dialect": {
@@ -274,6 +275,10 @@
                     {
                         "datatype": "string",
                         "name": "Alignment_Source"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Comment"
                     }
                 ],
                 "foreignKeys": [

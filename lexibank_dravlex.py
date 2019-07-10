@@ -1,11 +1,19 @@
+import attr
 from clldutils.path import Path
 from pycldf.dataset import Wordlist
 from pylexibank.dataset import Dataset as BaseDataset
+from pylexibank.dataset import Cognate
+
+
+@attr.s
+class DravidianCognate(Cognate):
+    Comment = attr.ib(default=None)
 
 
 class Dataset(BaseDataset):
     dir = Path(__file__).parent
     id = "dravlex"
+    cognate_class = DravidianCognate
 
     def cmd_download(self, **kw):
         pass
@@ -36,6 +44,7 @@ class Dataset(BaseDataset):
 
             for row in self.raw.read_csv(dsdir / 'forms.csv', dicts=True):
                 src = row['Source'].split(";") if row['Source'] else ['KolipakamFW']
+                cog = cogs.get(row['ID'])
                 for lex in ds.add_lexemes(
                     Local_ID=row['ID'],
                     Language_ID=row['Language_ID'],
@@ -43,16 +52,15 @@ class Dataset(BaseDataset):
                     Value=row['Form'],
                     Source=src,
                     Comment=row['status'],
+                    Cognacy=cog,
                     Loan=True if row['status'] else False
                 ):
-                    cog = cogs.get(row['ID'])
                     ds.add_cognate(
                         lexeme=lex,
                         ID=cog['ID'],
-                        #Form_ID=cog['Form_ID'],
                         Source=cog['Source'],
                         Cognateset_ID=cog['Cognateset_ID'],
-#                        Comment=", ".join([cog['Comment'], cog['source_comment']])
+                        Comment=", ".join([cog['Comment'], cog['source_comment']])
                     )
 
 
