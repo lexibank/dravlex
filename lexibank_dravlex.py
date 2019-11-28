@@ -33,7 +33,7 @@ class Dataset(BaseDataset):
 
         # load sources from original CLDF, and then the fieldwork source
         args.writer.add_sources(*self.raw_dir.read_bib(dsdir / 'sources.bib'))
-        args.writer.add_sources()  #TODO Rm*self.raw_dir.read_bib()
+        args.writer.add_sources()
         
         # load languages
         self.languages = self.raw_dir.read_csv(dsdir / 'languages.csv', dicts=True)
