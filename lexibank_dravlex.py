@@ -1,66 +1,66 @@
+from pathlib import Path
+
 import attr
-from clldutils.path import Path
-from pycldf.dataset import Wordlist
-from pylexibank.dataset import Dataset as BaseDataset
-from pylexibank.dataset import Cognate
+from pycldf import Wordlist
+from pylexibank import Dataset as BaseDataset
+from pylexibank import Cognate, Language
 
 
 @attr.s
-class DravidianCognate(Cognate):
+class CustomCognate(Cognate):
     Comment = attr.ib(default=None)
+
+
+@attr.s
+class CustomLanguage(Language):
+    concept_count = attr.ib(default=None)
+    word_count = attr.ib(default=None)
+
 
 
 class Dataset(BaseDataset):
     dir = Path(__file__).parent
     id = "dravlex"
-    cognate_class = DravidianCognate
+    language_class = CustomLanguage
+    cognate_class = CustomCognate
 
-    def cmd_download(self, **kw):
-        pass
-
-    def cmd_install(self, **kw):
-
+    def cmd_makecldf(self, args):
         dsdir = self.dir / 'raw' / 'Verkerk-DravLex-622ac6e'
-
         dataset = Wordlist.from_metadata(dsdir / 'Wordlist-metadata.json')
 
-        with self.cldf as ds:
-            ds.add_concepts(id_factory=lambda c: c.english)
-            # add sources from original CLDF, and then the fieldwork source
-            ds.add_sources(*self.raw.read_bib(dsdir / 'sources.bib'))
-            ds.add_sources(*self.raw.read_bib())
+        # load concepts
+        args.writer.add_concepts(id_factory=lambda c: c.english)
 
-            for row in self.raw.read_csv(dsdir / 'languages.csv', dicts=True):
-                # remove un-needed fields
-                del(row['concept_count'])
-                del(row['word_count'])
-                ds.add_language(**row)
+        # load sources from original CLDF, and then the fieldwork source
+        args.writer.add_sources(*self.raw_dir.read_bib(dsdir / 'sources.bib'))
+        args.writer.add_sources()  #TODO Rm*self.raw_dir.read_bib()
+        
+        # load languages
+        self.languages = self.raw_dir.read_csv(dsdir / 'languages.csv', dicts=True)
+        languages = args.writer.add_languages()
 
-
-            # load cognates
-            cogs = {}
-            for row in self.raw.read_csv(dsdir / 'cognates.csv', dicts=True):
-                cogs[row['Form_ID']] = row
-
-            for row in self.raw.read_csv(dsdir / 'forms.csv', dicts=True):
-                src = row['Source'].split(";") if row['Source'] else ['KolipakamFW']
-                cog = cogs.get(row['ID'])
-                for lex in ds.add_lexemes(
-                    Local_ID=row['ID'],
-                    Language_ID=row['Language_ID'],
-                    Parameter_ID=row['Parameter_ID'],
-                    Value=row['Form'],
-                    Source=src,
-                    Comment=row['status'],
-                    Cognacy=cog,
-                    Loan=True if row['status'] else False
-                ):
-                    ds.add_cognate(
-                        lexeme=lex,
-                        ID=cog['ID'],
-                        Source=cog['Source'],
-                        Cognateset_ID=cog['Cognateset_ID'],
-                        Comment=", ".join([cog['Comment'], cog['source_comment']])
-                    )
-
-
+        # load cognates
+        cogs = {
+            r['Form_ID']: r for r in self.raw_dir.read_csv(dsdir / 'cognates.csv', dicts=True)
+        }
+        
+        # load data
+        for row in self.raw_dir.read_csv(dsdir / 'forms.csv', dicts=True):
+            src = row['Source'].split(";") if row['Source'] else ['KolipakamFW']
+            cog = cogs.get(row['ID'])
+            for lex in args.writer.add_forms_from_value(
+                Local_ID=row['ID'],
+                Language_ID=row['Language_ID'],
+                Parameter_ID=row['Parameter_ID'],
+                Value=row['Form'],
+                Source=src,
+                Comment=row['status'],
+                Loan=True if row['status'] else False
+            ):
+                args.writer.add_cognate(
+                    lexeme=lex,
+                    ID=cog['ID'],
+                    Source=cog['Source'],
+                    Cognateset_ID=cog['Cognateset_ID'],
+                    Comment=", ".join([cog['Comment'], cog['source_comment']])
+                )

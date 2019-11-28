@@ -8,9 +8,9 @@ This dataset is licensed under a CC BY-SA  license
 
 Available online at https://zenodo.org/record/1181715
 
-Conceptlists in Concepticon:
-- [Kolipakam-2018-100](http://concepticon.clld.org/contributions/Kolipakam-2018-100)
 
+Conceptlists in Concepticon:
+- [Kolipakam-2018-100](https://concepticon.clld.org/contributions/Kolipakam-2018-100)
 ## Statistics
 
 
