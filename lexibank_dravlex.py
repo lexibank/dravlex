@@ -4,7 +4,7 @@ import attr
 from pycldf import Wordlist
 from clldutils.misc import slug
 from pylexibank import Dataset as BaseDataset
-from pylexibank import Cognate, Language
+from pylexibank import Cognate, Language, FormSpec
 
 
 @attr.s
@@ -24,6 +24,13 @@ class Dataset(BaseDataset):
     id = "dravlex"
     language_class = CustomLanguage
     cognate_class = CustomCognate
+
+    form_spec = FormSpec(
+        brackets={"[": "]", "{": "}", "(": ")"},
+        separators=";/,~",
+        missing_data=('-', ),
+        strip_inside_brackets=True,
+    )
 
     def cmd_makecldf(self, args):
         dsdir = self.dir / 'raw' / 'Verkerk-DravLex-622ac6e'
