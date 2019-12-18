@@ -47,7 +47,6 @@ class Dataset(BaseDataset):
         args.writer.add_sources()
         
         # load languages
-        self.languages = self.raw_dir.read_csv(dsdir / 'languages.csv', dicts=True)
         args.writer.add_languages()
 
         # load cognates

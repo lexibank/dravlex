@@ -18,7 +18,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/dravlex",
-            "dc:created": "d073172"
+            "dc:created": "f97d0ca"
         },
         {
             "rdf:type": "prov:Entity",
