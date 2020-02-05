@@ -579,7 +579,7 @@ Tulu-27_fat-1,571,Tulu,27_fat,tʃeɾabi,tʃeɾabi,tʃ e ɾ a b i,,KolipakamFW,,f
 Yeruva-27_fat-1,572,Yeruva,27_fat,tʃiɾabi,tʃiɾabi,tʃ i ɾ a b i,,KolipakamFW,,false
 Betta_Kurumba-27_fat-1,573,Betta_Kurumba,27_fat,tanniʋi,tanniʋi,t a nː i ʋ i,,KolipakamFW,,false
 Betta_Kurumba-27_fat-2,574,Betta_Kurumba,27_fat,teɾija,teɾija,t e ɾ i j a,,KolipakamFW,,false
-Malto-27_fat-1,575,Malto,27_fat,nedʒdʒa,nedʒdʒa,n e dːʒ a,,KolipakamFW,,false
+Malto-27_fat-1,575,Malto,27_fat,nedʒdʒa,nedʒdʒa,n e dʒː a,,KolipakamFW,,false
 Ollari_Gadba-27_fat-1,576,Ollari_Gadba,27_fat,me:n,me:n,m eː n,,KolipakamFW,,false
 Badga-28_feather-1,577,Badga,28_feather,ɾakke,ɾakke,ɾ a kː e,,KolipakamFW,,false
 Kota-28_feather-1,578,Kota,28_feather,ɾe:kə,ɾe:kə,ɾ eː k ə,,KolipakamFW,,false
@@ -1524,8 +1524,8 @@ Kolami-72_see-1,1511,Kolami,72_see,ta:na,ta:na,t aː n a,,KolipakamFW,,false
 Badga-73_seed-1,1512,Badga,73_seed,pittə,pittə,p i tː ə,,KolipakamFW,,false
 Betta_Kurumba-73_seed-1,1513,Betta_Kurumba,73_seed,bissə ~ bitʃtʃə,bissə,b i sː ə,,KolipakamFW,,false
 Betta_Kurumba-73_seed-2,1513,Betta_Kurumba,73_seed,bissə ~ bitʃtʃə,bitʃtʃə,b i tʃː ə,,KolipakamFW,,false
-Brahui-73_seed-1,1514,Brahui,73_seed,bedʒdʒ,bedʒdʒ,b e dːʒ,,KolipakamFW,,false
-Gondi-73_seed-1,1515,Gondi,73_seed,"vidʒdʒa""","vidʒdʒa""",v i dːʒ a,,KolipakamFW,,false
+Brahui-73_seed-1,1514,Brahui,73_seed,bedʒdʒ,bedʒdʒ,b e dʒː,,KolipakamFW,,false
+Gondi-73_seed-1,1515,Gondi,73_seed,"vidʒdʒa""","vidʒdʒa""",v i dʒː a,,KolipakamFW,,false
 Kannada-73_seed-1,1516,Kannada,73_seed,bede,bede,b e d e,,Andronov1964,,false
 Kannada-73_seed-2,1517,Kannada,73_seed,bi:dʒa,bi:dʒa,b iː dʒ a,,KolipakamFW,,false
 Kolami-73_seed-1,1518,Kolami,73_seed,ʋittanam,ʋittanam,ʋ i tː a n a m,,KolipakamFW,,false
@@ -1658,7 +1658,7 @@ Kolami-79_stand-1,1643,Kolami,79_stand,ni:ma:n,ni:ma:n,n iː m aː n,,KolipakamF
 Kota-79_stand-1,1644,Kota,79_stand,ninnatukə,ninnatukə,n i nː a t u k ə,,KolipakamFW,,false
 Koya-79_stand-1,1645,Koya,79_stand,nilla,nilla,n i lː a,,KolipakamFW,,false
 Koya-79_stand-2,1646,Koya,79_stand,nilliman,nilliman,n i lː i m a n,,KolipakamFW,,false
-Kurukh-79_stand-1,1647,Kurukh,79_stand,idʒdʒna,idʒdʒna,i dːʒ n a,,KolipakamFW,,false
+Kurukh-79_stand-1,1647,Kurukh,79_stand,idʒdʒna,idʒdʒna,i dʒː n a,,KolipakamFW,,false
 Malayalam-79_stand-1,1648,Malayalam,79_stand,nilkuga,nilkuga,n i l k u g a,,Andronov1964,,false
 Malto-79_stand-1,1649,Malto,79_stand,hilpo,hilpo,h i l p o,,KolipakamFW,,false
 Parji-79_stand-1,1650,Parji,79_stand,nilp-,nilp-,n i l p +,,Andronov1964,,false
