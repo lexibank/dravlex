@@ -1,104 +1,97 @@
-Grapheme	FREQUENCY	IPA	UNICODE
-a:		aː	
-e:		eː	
-i:		iː	
-o:		oː	
-u:		uː		
-ə:		əː
-tʃː		tːʃ	
-tʃ:		tːʃ	
-eː		eː	
-pː		pː	
-p:		pː	
-tʃtʃ		tːʃ	
-dʒdʒ		dːʒ	
-gott(ə)		g o tː	
-tʃ		tʃ	
-dh		dʱ	
-th		tʰ	
-dʒ		dʒ	
-dz		dz
-ʋʋ		ʋː	
-ts		ts	
-tsts		tːs	
-tt		tː	
-ss		sː	
-kk		kː	
-mm		mː
-nn		nː		
-ll		lː	
-ɖɖ		ɖː	
-ʈʈ		ʈː	
-ɭɭ		ɭː	
-ṭṭ		ʈː	
-ḍḍ		ɖː	
-pp		pː	
-ɽ		ɽ
-M		m
-bb		bː	
-gʰ		gʱ	
-bʰ		bʱ
-gg		gː	
-/əɾsi/[wəɾsi]		ə ɾ s i	
-dʰ		dʱ	
-bo:dʰ		b oː dʱ	
-vidʒdʒa"		v i dːʒ a	
-piva:ʰd		p i v aː dʱ	
-ɖʰ		ɖʰ	
-ṛ		ɽ
-kʰ		kʰ	
-tʰ		tʰ	
-ū	3	uː	U+016b
-z	3	z	U+007a
-ō	3	oː	U+014d
-ṉ	4	n̪	U+1e49
-ɲ	4	ɲ	U+0272
-ṅ	4	ŋ	U+1e45
-ē	4	eː	U+0113
-ṇ	5	ɳ	U+1e47
-f	6	f	U+0066
-Ɛ	7	ɛ	U+0190
-ɻ	7	ɻ	U+027b
-ṟ	8	r̪	U+1e5f
-ḍ	9	ɖ	U+1e0d
-y	10	y	U+0079
-ī	11	iː	U+012b
-c	11	c	U+0063
-x	14	x	U+0078
-ṭ	16	ʈ	U+1e6d
-ā	23	aː	U+0101
-ʂ	24	ʂ	U+0282
-v	27	v	U+0076
--	27	+	U+002d
-ɭ	58	ɭ	U+026d
-r	65	r	U+0072
-ʒ	70	ʒ	U+0292
-h	91	h	U+0068
-ɳ	91	ɳ	U+0273
-ʋ	139	ʋ	U+028b
-s	151	s	U+0073
-ʈ	156	ʈ	U+0288
-j	165	j	U+006a
-ʃ	172	ʃ	U+0283
-b	192	b	U+0062
-g	225	g	U+0067
-ɖ	257	ɖ	U+0256
-o	370	o	U+006f
-p	377	p	U+0070
-d	380	d	U+0064
-ə	390	ə	U+0259
-l	419	l	U+006c
-ɾ	451	ɾ	U+027e
-m	459	m	U+006d
-e	520	e	U+0065
-t	546	t	U+0074
-k	596	k	U+006b
-n	753	n	U+006e
-u	773	u	U+0075
-i	784	i	U+0069
-a	1697	a	U+0061
-_	8491	_	U+005f
-ḻ	3	l̪	U+1e3b
-ñ	2	ɲ	U+00f1
-ã	2	ã	U+00e3
-ṣ	2	ʂ	U+1e63
+Grapheme	IPA	FREQUENCY	CODEPOINTS	EXAMPLES
+-	+	27	U+002D	karu-,malagu-,un-
+M	m	1	U+004D	Ma:ta
+a	a	1378	U+0061	ajindi,betʃtʃa,ɖollatam
+b	b	182	U+0062	be:ɖo,beʂoling,gubal
+c	c	11	U+0063	cantiraṉ,cī-,kic
+d	d	305	U+0064	digaɖo,dolsi,id
+e	e	427	U+0065	kebi,me,zeel
+f	f	6	U+0066	fasija:r,kasfing,xaf
+g	g	215	U+0067	go:l peɾi,jeɾɾag,tʃa:ing
+h	h	84	U+0068	hoge,hosadu,koha
+i	i	671	U+0069	kinnu:ɖə,naɾi,nimma
+j	j	169	U+006A	bajiʈə,je:ɾu,ɾa:j
+k	k	464	U+006B	he:kpo,jankulu,nintiko
+l	l	276	U+006C	telusuko,tile,ulti
+m	m	433	U+006D	iʋʋaɖam,mara,moʈʈe
+n	n	665	U+006E	guntə,nallə,tɾajun
+o	o	278	U+006F	ha:hpo,ondʒu,tombe
+p	p	305	U+0070	badʒpo,pedda,poɖutə
+r	r	66	U+0072	gēri,hasiru,varaṇṭa
+s	s	143	U+0073	mi:ɾs,sinna,tu:ɾs
+t	t	282	U+0074	i:datam,ninnatukə,taɖing
+u	u	705	U+0075	puka,puɾuʂuɖu,tʃunak
+v	v	25	U+0076	nelavə,varaṇṭa,vālamu
+x	x	14	U+0078	xa:xaɾ tinning,xad,xuahae
+y	y	10	U+0079	cay-,key,vayiṟu
+z	z	3	U+007A	ba:z,zeel,zunɖing
+ã	ã	2	U+00E3	muvãḍ,nevãḍ
+ñ	ɲ	2	U+00F1	neliñ,pañil
+ā	aː	23	U+0101	eṟāgu-,kātu,māṟu
+ē	eː	4	U+0113	gēri,pēni,ēmi
+ī	iː	11	U+012B	cī-,nīṇṭa,strī
+ō	oː	3	U+014D	rōmam,tōka,tōl
+ū	uː	3	U+016B	būla,kūdalu,tūk
+Ɛ	ɛ	7	U+0190	nƐ,paɾɾƐ,pƐɾ
+ɖ	ɖ	242	U+0256	gonɖka,magaʋa:ɳɖ,no:ɖu
+ə	ə	393	U+0259	a:ɭə,anəa,sattə po
+ɭ	ɭ	47	U+026D	kuɭəʋə,ni:ɭama:na,pakkigaɭ
+ɲ	ɲ	4	U+0272	kiɲa,niɾaɲa,ɲa:n
+ɳ	ɳ	92	U+0273	a:ɳ,guɳɖeka:ja,peɳ
+ɻ	ɻ	7	U+027B	maɻa,maɻai,ʋaɻi
+ɽ	ɽ	1	U+027D	njaaɽi
+ɾ	ɾ	460	U+027E	dɾogʰ taɖing,keɾijaɾa,ku:ɾsu
+ʂ	ʂ	24	U+0282	puɾuʂan,puɾuʂuɖu,vrukʂam
+ʃ	ʃ	4	U+0283	ittʃadta,mo:ʃ,pu:ʃkun
+ʈ	ʈ	66	U+0288	neʈa,oɾɾo:ʈ,topaʈa
+ʋ	ʋ	132	U+028B	paɾʋatam,ta:ʋə,ʋaʈʈa
+ʒ	ʒ	3	U+0292	ni:nɖʒu,puʒʒƐ
+ḍ	ɖ	9	U+1E0D	bāḍu,muvãḍ,nevãḍ
+ḻ	l̪	3	U+1E3B	muḻaṅkāl,vaḻi
+ṅ	ŋ	4	U+1E45	muḻaṅkāl,taruṅg,uṟaṅku-
+ṇ	ɳ	5	U+1E47	kāṇ-,muṇakālo,varaṇṭa
+ṉ	n̪	4	U+1E49	cantiraṉ,maṉitaṉ,mīṉ
+ṛ	ɽ	1	U+1E5B	koṛukuḍ
+ṟ	r̪	8	U+1E5F	ciṟiya,eṟāgu-,māṟu
+ṣ	ʂ	2	U+1E63	puruṣa,uṣṇa-
+ṭ	ʈ	4	U+1E6D	aṭi,kuṭi-,varaṇṭa
+a:	aː	334	U+0061 U+003A	a:ɳ,ka:ʈum,si:ta:n
+bb	bː	6	U+0062 U+0062	kobbu,kombbə,mabbu
+bʰ	bʱ	4	U+0062 U+02B0	bʰu:mi,bʰulo:gam,bʰumi
+dh	dʱ	6	U+0064 U+0068	adhu,idhu,idhə
+dʒ	dʒ	59	U+0064 U+0292	dʒe:k saling,dʒuʈʈul,i:dʒo:ɖ
+e:	eː	96	U+0065 U+003A	e:kʰna,me:gam,ʋe:ɾə
+eː	eː	1	U+0065 U+02D0	meːmu
+gg	gː	6	U+0067 U+0067	aggi,buggi,neggaɖ
+gʰ	gʱ	3	U+0067 U+02B0	dɾogʰ taɖing,maɾgʰ,me:gʰamu
+i:	iː	124	U+0069 U+003A	bi:ɖi,i:ru,i:ɾ
+kk	kː	53	U+006B U+006B	guanakki,okko:t,uppekke
+kʰ	kʰ	31	U+006B U+02B0	akʰna,dɾahkʰt,okʰna
+ll	lː	73	U+006C U+006C	fullə,kulle,tellag
+mm	mː	13	U+006D U+006D	mamma,nimma,nimme
+nn	nː	47	U+006E U+006E	onna,tinn,unning
+o:	oː	94	U+006F U+003A	ho:gpo,no:f,to:l
+p:	pː	1	U+0070 U+003A	kp:ma:ɭi
+pp	pː	37	U+0070 U+0070	kaɾəppə,seʋappə,taɳuppə
+ss	sː	7	U+0073 U+0073	assal,bissə,tissəgaɳɖa:ngi
+th	tʰ	1	U+0074 U+0068	kuthige
+ts	ts	1	U+0074 U+0073	matsya
+tt	tː	49	U+0074 U+0074	bottig,maɾattoli,ottə
+tʃ	tʃ	107	U+0074 U+0283	taltʃenʈi,tʃando,tʃo:ɾe
+tʰ	tʰ	4	U+0074 U+02B0	ha:tʰa,stʰana,stʰanamu
+u:	uː	79	U+0075 U+003A	mu:kə,mu:ʈə,tu:ɾs
+ɖɖ	ɖː	9	U+0256 U+0256	aɖɖə,doɖɖadə,eɖɖedana
+ɖʰ	ɖʰ	1	U+0256 U+02B0	peɖʰ
+ə:	əː	3	U+0259 U+003A	kə:ɭ,pə:ɭ,ə:ɭ
+ɭɭ	ɭː	7	U+026D U+026D	ni:ɭɭu,oɭɭijadu,ʋeɭɭe
+ʈʈ	ʈː	45	U+0288 U+0288	muʈʈa,muʈʈi,paʈʈi
+ʋʋ	ʋː	5	U+028B U+028B	iʋʋaɖam,koʋʋu,oʋʋoɖimo
+ṭṭ	ʈː	6	U+1E6D U+1E6D	hoṭṭe,paṭṭa,vaṭṭa-
+kkʰ	kʰː	1	U+006B U+006B U+02B0	kʰekkʰa
+tʃ:	tʃː	1	U+0074 U+0283 U+003A	tʃ:ɭa
+dʒdʒ	dːʒ	3	U+0064 U+0292 U+0064 U+0292	bedʒdʒ,idʒdʒna,nedʒdʒa
+tʃtʃ	tʃː	33	U+0074 U+0283 U+0074 U+0283	katʃtʃa:,natʃtʃatiɾa,patʃtʃad
+bo:dʰ	b oː dʱ	1	U+0062 U+006F U+003A U+0064 U+02B0	bo:dʰ
+piva:ʰd	p i v aː dʱ	1	U+0070 U+0069 U+0076 U+0061 U+003A U+02B0 U+0064	piva:ʰd
+"vidʒdʒa"""	v i dːʒ a	1	U+0076 U+0069 U+0064 U+0292 U+0064 U+0292 U+0061 U+0022	"vidʒdʒa""	
+"
