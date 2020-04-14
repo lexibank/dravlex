@@ -1,4 +1,4 @@
-# DravLex: A Dravidian lexical database
+# CLDF dataset derived from Kolipakam et al.'s "DravLex:" from 2018.
 
 Cite the source dataset as
 
@@ -32,3 +32,12 @@ Conceptlists in Concepticon:
 - **Tokens:** 10,101
 - **Segments:** 75 (0 BIPA errors, 0 CTLS sound class errors, 75 CLTS modified)
 - **Inventory size (avg):** 41.55
+
+# Contributors
+
+Name               | GitHub user     | Description                          | Role
+---                | ---             | ---                                  | ---
+Simon J. Greenhill | @SimonGreenhill | patron                               | Author
+Tiago Tresoldi     | @tresoldi       | profile                              | Author
+
+

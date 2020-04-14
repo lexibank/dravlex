@@ -11,14 +11,14 @@
     "dc:license": "CC BY-SA ",
     "dc:related": null,
     "dc:source": "sources.bib",
-    "dc:title": "DravLex: A Dravidian lexical database",
+    "dc:title": "CLDF dataset derived from Kolipakam et al.'s \"DravLex:\" from 2018.",
     "dcat:accessURL": "https://github.com/lexibank/dravlex",
     "prov:wasDerivedFrom": [
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/dravlex",
-            "dc:created": "85104df"
+            "dc:created": "69b7861"
         },
         {
             "rdf:type": "prov:Entity",
@@ -118,6 +118,14 @@
                     {
                         "datatype": "boolean",
                         "name": "Loan"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Graphemes"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Profile"
                     }
                 ],
                 "foreignKeys": [

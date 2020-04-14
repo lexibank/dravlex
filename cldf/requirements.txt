@@ -27,7 +27,7 @@ pyclts==2.0.0
 pyconcepticon==2.6.0
 pycountry==19.8.18
 pyglottolog==3.0.0
--e git+https://github.com/lexibank/pylexibank@6e334aefc30a12b127c41ef73115bbd90423a1f2#egg=pylexibank
+pylexibank==2.6.0
 pytest==5.3.5
 regex==2020.2.20
 requests==2.23.0
