@@ -1,4 +1,4 @@
-# CLDF dataset derived from Kolipakam et al.'s "DravLex:" from 2018.
+# CLDF dataset derived from Kolipakam et al.'s "DravLex:" from 2018
 
 Cite the source dataset as
 
