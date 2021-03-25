@@ -2,5 +2,7 @@
 
 Name               | GitHub user     | Description                          | Role
 ---                | ---             | ---                                  | ---
-Simon J. Greenhill | @SimonGreenhill | patron                               | Author
-Tiago Tresoldi     | @tresoldi       | profile                              | Author
+Kolipakam, Vishnupriya | | data collection | Author
+Simon J. Greenhill | @SimonGreenhill | patron                               | Other
+Tiago Tresoldi     | @tresoldi       | profile                              | Other
+Johann-Mattis List | @lingulist | corrections | Other

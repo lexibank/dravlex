@@ -4,7 +4,7 @@ Cite the source dataset as
 
 > Kolipakam, Vishnupriya, Michael Dunn, Fiona M. Jordan & Annemarie Verkerk. (2018). DravLex: A Dravidian lexical database. Max Planck Institute for Psycholinguistics, Nijmegen, The Netherlands.
 
-This dataset is licensed under a CC BY-SA  license
+This dataset is licensed under a CC-BY-4.0 license
 
 Available online at https://zenodo.org/record/1181715
 
@@ -29,15 +29,17 @@ Conceptlists in Concepticon:
 - **Cognacy:** 2,114 cognates in 778 cognate sets (487 singletons)
 - **Cognate Diversity:** 0.33
 - **Invalid lexemes:** 0
-- **Tokens:** 10,101
+- **Tokens:** 10,075
 - **Segments:** 75 (0 BIPA errors, 0 CTLS sound class errors, 75 CLTS modified)
-- **Inventory size (avg):** 41.55
+- **Inventory size (avg):** 41.35
 
 # Contributors
 
 Name               | GitHub user     | Description                          | Role
 ---                | ---             | ---                                  | ---
-Simon J. Greenhill | @SimonGreenhill | patron                               | Author
-Tiago Tresoldi     | @tresoldi       | profile                              | Author
+Kolipakam, Vishnupriya | | data collection | Author
+Simon J. Greenhill | @SimonGreenhill | patron                               | Other
+Tiago Tresoldi     | @tresoldi       | profile                              | Other
+Johann-Mattis List | @lingulist | corrections | Other
 
 

@@ -152,7 +152,7 @@ Ollari_Gadba-7_bird-1,150,Ollari_Gadba,7_bird,titə,titə,t i t ə,,KolipakamFW,
 Betta_Kurumba-8_bite-1,151,Betta_Kurumba,8_bite,kaɖi ~ kajɾi,kaɖi,k a ɖ i,,KolipakamFW,,false,^ k a ɖ i $,default
 Betta_Kurumba-8_bite-2,151,Betta_Kurumba,8_bite,kaɖi ~ kajɾi,kajɾi,k a j ɾ i,,KolipakamFW,,false,^ k a j ɾ i $,default
 Brahui-8_bite-1,152,Brahui,8_bite,kaat kanning,kaat kanning,k a a t + k a nː i n g,,KolipakamFW,,false,^ k a a t + k a nn i n g $,default
-Kannada-8_bite-1,153,Kannada,8_bite,kaḍi-,kaḍi-,k a ɖ i +,,Andronov1964,,false,^ k a ḍ i - $,default
+Kannada-8_bite-1,153,Kannada,8_bite,kaḍi-,kaḍi-,k a ɖ i,,Andronov1964,,false,^ k a ḍ i -$,default
 Kodava-8_bite-1,154,Kodava,8_bite,kaɖi,kaɖi,k a ɖ i,,KolipakamFW,,false,^ k a ɖ i $,default
 Kota-8_bite-1,155,Kota,8_bite,kaɖə,kaɖə,k a ɖ ə,,KolipakamFW,,false,^ k a ɖ ə $,default
 Malayalam-8_bite-1,156,Malayalam,8_bite,kadikkuga,kadikkuga,k a d i kː u g a,,KolipakamFW,,false,^ k a d i kk u g a $,default
@@ -161,7 +161,7 @@ Yeruva-8_bite-1,158,Yeruva,8_bite,kaɖi,kaɖi,k a ɖ i,,KolipakamFW,,false,^ k a
 Toda-8_bite-1,159,Toda,8_bite,paɾtʃiʈtʃi,paɾtʃiʈtʃi,p a ɾ tʃ i ʈ tʃ i,,KolipakamFW,,false,^ p a ɾ tʃ i ʈ tʃ i $,default
 Kolami-8_bite-1,160,Kolami,8_bite,atekaʂin,atekaʂin,a t e k a ʂ i n,,KolipakamFW,,false,^ a t e k a ʂ i n $,default
 Koya-8_bite-1,161,Koya,8_bite,koɾaka,koɾaka,k o ɾ a k a,,KolipakamFW,,false,^ k o ɾ a k a $,default
-Parji-8_bite-1,162,Parji,8_bite,kork-,kork-,k o r k +,,Andronov1964,,false,^ k o r k - $,default
+Parji-8_bite-1,162,Parji,8_bite,kork-,kork-,k o r k,,Andronov1964,,false,^ k o r k -$,default
 Telugu-8_bite-1,163,Telugu,8_bite,koɾuku,koɾuku,k o ɾ u k u,,Andronov1964,,false,^ k o ɾ u k u $,default
 Badga-8_bite-1,164,Badga,8_bite,katʃtʃə,katʃtʃə,k a tʃː ə,,KolipakamFW,,false,^ k a tʃtʃ ə $,default
 Gondi-8_bite-1,165,Gondi,8_bite,kask,kask,k a s k,,KolipakamFW,,false,^ k a s k $,default
@@ -189,7 +189,7 @@ Telugu-9_black-2,186,Telugu,9_black,nalla,nalla,n a lː a,,KolipakamFW,,false,^ 
 Kuwi-9_black-1,187,Kuwi,9_black,kadia,kadia,k a d i a,,KolipakamFW,,false,^ k a d i a $,default
 Brahui-9_black-1,188,Brahui,9_black,ma:on,ma:on,m aː o n,,KolipakamFW,,false,^ m a: o n $,default
 Kurukh-9_black-1,189,Kurukh,9_black,mokʰaɾo,mokʰaɾo,m o kʰ a ɾ o,,KolipakamFW,,false,^ m o kʰ a ɾ o $,default
-Kannada-9_black-2,190,Kannada,9_black,karu-,karu-,k a r u +,,Andronov1964,,false,^ k a r u - $,default
+Kannada-9_black-2,190,Kannada,9_black,karu-,karu-,k a r u,,Andronov1964,,false,^ k a r u -$,default
 Malto-9_black-1,191,Malto,9_black,maɖhaɾo,maɖhaɾo,m a ɖ h a ɾ o,,KolipakamFW,,false,^ m a ɖ h a ɾ o $,default
 Kolami-9_black-1,192,Kolami,9_black,ɖa:ɾiate,ɖa:ɾiate,ɖ aː ɾ i a t e,,KolipakamFW,,false,^ ɖ a: ɾ i a t e $,default
 Badga-10_blood-1,193,Badga,10_blood,rattə,rattə,r a tː ə,LOAN,KolipakamFW,,true,^ r a tt ə $,default
@@ -354,7 +354,7 @@ Betta_Kurumba-17_come-2,348,Betta_Kurumba,17_come,ba:ɾ ~ ban ~ bu,ban,b a n,,Ko
 Betta_Kurumba-17_come-3,348,Betta_Kurumba,17_come,ba:ɾ ~ ban ~ bu,bu,b u,,KolipakamFW,,false,^ b u $,default
 Brahui-17_come-1,349,Brahui,17_come,banning,banning,b a nː i n g,,KolipakamFW,,false,^ b a nn i n g $,default
 Gondi-17_come-1,350,Gondi,17_come,ʋa,ʋa,ʋ a,,KolipakamFW,,false,^ ʋ a $,default
-Kannada-17_come-1,351,Kannada,17_come,baru-,baru-,b a r u +,,Andronov1964,,false,^ b a r u - $,default
+Kannada-17_come-1,351,Kannada,17_come,baru-,baru-,b a r u,,Andronov1964,,false,^ b a r u -$,default
 Kannada-17_come-2,352,Kannada,17_come,ba:,ba:,b aː,,KolipakamFW,,false,^ b a: $,default
 Kodava-17_come-1,353,Kodava,17_come,ba:,ba:,b aː,,KolipakamFW,,false,^ b a: $,default
 Kolami-17_come-1,354,Kolami,17_come,ʋa,ʋa,ʋ a,,KolipakamFW,,false,^ ʋ a $,default
@@ -364,7 +364,7 @@ Kurukh-17_come-1,357,Kurukh,17_come,baɾna,baɾna,b a ɾ n a,,KolipakamFW,,false
 Malayalam-17_come-1,358,Malayalam,17_come,ʋaɾuga,ʋaɾuga,ʋ a ɾ u g a,,Andronov1964,,false,^ ʋ a ɾ u g a $,default
 Malto-17_come-1,359,Malto,17_come,baɾəa:,baɾəa:,b a ɾ ə aː,,KolipakamFW,,false,^ b a ɾ ə a: $,default
 Ollari_Gadba-17_come-1,360,Ollari_Gadba,17_come,ʋa,ʋa,ʋ a,,KolipakamFW,,false,^ ʋ a $,default
-Parji-17_come-1,361,Parji,17_come,ver-,ver-,v e r +,,Andronov1964,,false,^ v e r - $,default
+Parji-17_come-1,361,Parji,17_come,ver-,ver-,v e r,,Andronov1964,,false,^ v e r -$,default
 Tamil-17_come-1,362,Tamil,17_come,ʋa:,ʋa:,ʋ aː,,Andronov1964,,false,^ ʋ a: $,default
 Telugu-17_come-1,363,Telugu,17_come,ʋatʃtʃu,ʋatʃtʃu,ʋ a tʃː u,,KolipakamFW,,false,^ ʋ a tʃtʃ u $,default
 Telugu-17_come-2,364,Telugu,17_come,ɾa,ɾa,ɾ a,,KolipakamFW,,false,^ ɾ a $,default
@@ -378,7 +378,7 @@ Kannada-18_die-1,371,Kannada,18_die,sa:ji,sa:ji,s aː j i,,Andronov1964,,false,^
 Kodava-18_die-1,372,Kodava,18_die,tʃ:ɭa,tʃ:ɭa,tʃː ɭ a,,KolipakamFW,,false,^ tʃ: ɭ a $,default
 Kurukh-18_die-1,373,Kurukh,18_die,kʰena,kʰena,kʰ e n a,,KolipakamFW,,false,^ kʰ e n a $,default
 Malto-18_die-1,374,Malto,18_die,keəa:na:keəida:h,keəa:na:keəida:h,k e ə aː n aː k e ə i d aː h,,KolipakamFW,,false,^ k e ə a: n a: k e ə i d a: h $,default
-Parji-18_die-1,375,Parji,18_die,cay-,cay-,c a y +,,Andronov1964,,false,^ c a y - $,default
+Parji-18_die-1,375,Parji,18_die,cay-,cay-,c a y,,Andronov1964,,false,^ c a y -$,default
 Tamil-18_die-1,376,Tamil,18_die,tʃa:,tʃa:,tʃ aː,,Andronov1964,,false,^ tʃ a: $,default
 Tamil-18_die-2,377,Tamil,18_die,sattə po,sattə po,s a tː ə + p o,,KolipakamFW,,false,^ s a tt ə + p o $,default
 Telugu-18_die-1,378,Telugu,18_die,tʃatʃtʃipo:ʋu,tʃatʃtʃipo:ʋu,tʃ a tʃː i p oː ʋ u,,KolipakamFW,,false,^ tʃ a tʃtʃ i p o: ʋ u $,default
@@ -413,10 +413,10 @@ Malto-19_dog-1,406,Malto,19_dog,kutʃtʃo,kutʃtʃo,k u tʃː o,,KolipakamFW,,fa
 Badga-20_drink-1,407,Badga,20_drink,kuɖapə,kuɖapə,k u ɖ a p ə,,KolipakamFW,,false,^ k u ɖ a p ə $,default
 Betta_Kurumba-20_drink-1,408,Betta_Kurumba,20_drink,kuɖi ~ kujɾi,kuɖi,k u ɖ i,,KolipakamFW,,false,^ k u ɖ i $,default
 Betta_Kurumba-20_drink-2,408,Betta_Kurumba,20_drink,kuɖi ~ kujɾi,kujɾi,k u j ɾ i,,KolipakamFW,,false,^ k u j ɾ i $,default
-Kannada-20_drink-1,409,Kannada,20_drink,kuḍi-,kuḍi-,k u ɖ i +,,Andronov1964,,false,^ k u ḍ i - $,default
+Kannada-20_drink-1,409,Kannada,20_drink,kuḍi-,kuḍi-,k u ɖ i,,Andronov1964,,false,^ k u ḍ i -$,default
 Kannada-20_drink-2,410,Kannada,20_drink,kudijo:du,kudijo:du,k u d i j oː d u,,KolipakamFW,,false,^ k u d i j o: d u $,default
 Kodava-20_drink-1,411,Kodava,20_drink,kuɖipa,kuɖipa,k u ɖ i p a,,KolipakamFW,,false,^ k u ɖ i p a $,default
-Malayalam-20_drink-1,412,Malayalam,20_drink,kuṭi-,kuṭi-,k u ʈ i +,,Andronov1964,,false,^ k u ṭ i - $,default
+Malayalam-20_drink-1,412,Malayalam,20_drink,kuṭi-,kuṭi-,k u ʈ i,,Andronov1964,,false,^ k u ṭ i -$,default
 Malayalam-20_drink-2,413,Malayalam,20_drink,kudikkuga,kudikkuga,k u d i kː u g a,,KolipakamFW,,false,^ k u d i kk u g a $,default
 Tamil-20_drink-1,414,Tamil,20_drink,kuɖi,kuɖi,k u ɖ i,,Andronov1964,,false,^ k u ɖ i $,default
 Yeruva-20_drink-1,415,Yeruva,20_drink,kuɖipə,kuɖipə,k u ɖ i p ə,,KolipakamFW,,false,^ k u ɖ i p ə $,default
@@ -428,7 +428,7 @@ Koya-20_drink-1,420,Koya,20_drink,unnu,unnu,u nː u,,KolipakamFW,,false,^ u nn u
 Kurukh-20_drink-1,421,Kurukh,20_drink,onna,onna,o nː a,,KolipakamFW,,false,^ o nn a $,default
 Malto-20_drink-1,422,Malto,20_drink,ho:na:,ho:na:,h oː n aː,,KolipakamFW,,false,^ h o: n a: $,default
 Ollari_Gadba-20_drink-1,423,Ollari_Gadba,20_drink,un,un,u n,,KolipakamFW,,false,^ u n $,default
-Parji-20_drink-1,424,Parji,20_drink,un-,un-,u n +,,Andronov1964,,false,^ u n - $,default
+Parji-20_drink-1,424,Parji,20_drink,un-,un-,u n,,Andronov1964,,false,^ u n -$,default
 Toda-20_drink-1,425,Toda,20_drink,uʈʈudi,uʈʈudi,u ʈː u d i,,KolipakamFW,,false,^ u ʈʈ u d i $,default
 Tulu-20_drink-1,426,Tulu,20_drink,paɾijaɾa,paɾijaɾa,p a ɾ i j a ɾ a,,KolipakamFW,,false,^ p a ɾ i j a ɾ a $,default
 Kolami-20_drink-1,427,Kolami,20_drink,aniɾusa:t,aniɾusa:t,a n i ɾ u s aː t,,KolipakamFW,,false,^ a n i ɾ u s a: t $,default
@@ -506,7 +506,7 @@ Koya-24_eat-1,498,Koya,24_eat,tinnu,tinnu,t i nː u,,KolipakamFW,,false,^ t i nn
 Kuwi-24_eat-1,499,Kuwi,24_eat,tinu,tinu,t i n u,,KolipakamFW,,false,^ t i n u $,default
 Malayalam-24_eat-1,500,Malayalam,24_eat,tinnuga,tinnuga,t i nː u g a,,KolipakamFW,,false,^ t i nn u g a $,default
 Ollari_Gadba-24_eat-1,501,Ollari_Gadba,24_eat,tin,tin,t i n,,KolipakamFW,,false,^ t i n $,default
-Parji-24_eat-1,502,Parji,24_eat,tin-,tin-,t i n +,,Andronov1964,,false,^ t i n - $,default
+Parji-24_eat-1,502,Parji,24_eat,tin-,tin-,t i n,,Andronov1964,,false,^ t i n -$,default
 Telugu-24_eat-1,503,Telugu,24_eat,tinu,tinu,t i n u,,KolipakamFW,,false,^ t i n u $,default
 Yeruva-24_eat-1,504,Yeruva,24_eat,tinno:,tinno:,t i nː oː,,KolipakamFW,,false,^ t i nn o: $,default
 Tamil-24_eat-1,505,Tamil,24_eat,sa:pədə,sa:pədə,s aː p ə d ə,,Andronov1964,,false,^ s a: p ə d ə $,default
@@ -725,7 +725,7 @@ Koya-34_give-2,715,Koya,34_give,i:datam,i:datam,iː d a t a m,,KolipakamFW,,fals
 Kurukh-34_give-1,716,Kurukh,34_give,tʃihna,tʃihna,tʃ i h n a,,KolipakamFW,,false,^ tʃ i h n a $,default
 Malto-34_give-1,717,Malto,34_give,tʃiba:h,tʃiba:h,tʃ i b aː h,,KolipakamFW,,false,^ tʃ i b a: h $,default
 Ollari_Gadba-34_give-1,718,Ollari_Gadba,34_give,tʃi,tʃi,tʃ i,,KolipakamFW,,false,^ tʃ i $,default
-Parji-34_give-1,719,Parji,34_give,cī-,cī-,c iː +,,Andronov1964,,false,^ c ī - $,default
+Parji-34_give-1,719,Parji,34_give,cī-,cī-,c iː,,Andronov1964,,false,^ c ī -$,default
 Telugu-34_give-1,720,Telugu,34_give,itʃtʃu,itʃtʃu,i tʃː u,,KolipakamFW,,false,^ i tʃtʃ u $,default
 Telugu-34_give-2,721,Telugu,34_give,iʋʋaɖam,iʋʋaɖam,i ʋː a ɖ a m,,KolipakamFW,,false,^ i ʋʋ a ɖ a m $,default
 Toda-34_give-1,722,Toda,34_give,ittʃadta,ittʃadta,i tː ʃ a d t a,,KolipakamFW,,false,^ i tt ʃ a d t a $,default
@@ -855,7 +855,7 @@ Kolami-40_hear-1,844,Kolami,40_hear,ʋinti,ʋinti,ʋ i n t i,,KolipakamFW,,false
 Kurukh-40_hear-1,845,Kurukh,40_hear,menna,menna,m e nː a,,KolipakamFW,,false,^ m e nn a $,default
 Malto-40_hear-1,846,Malto,40_hear,me:na,me:na,m eː n a,,KolipakamFW,,false,^ m e: n a $,default
 Malto-40_hear-2,847,Malto,40_hear,me:npo,me:npo,m eː n p o,,KolipakamFW,,false,^ m e: n p o $,default
-Parji-40_hear-1,848,Parji,40_hear,ven-,ven-,v e n +,,Andronov1964,,false,^ v e n - $,default
+Parji-40_hear-1,848,Parji,40_hear,ven-,ven-,v e n,,Andronov1964,,false,^ v e n -$,default
 Telugu-40_hear-1,849,Telugu,40_hear,ʋinu,ʋinu,ʋ i n u,,KolipakamFW,,false,^ ʋ i n u $,default
 Kannada-41_heart-1,850,Kannada,41_heart,hrudaya,hrudaya,h r u d a y a,LOAN,KolipakamFW,,true,^ h r u d a y a $,default
 Kodava-41_heart-1,851,Kodava,41_heart,hrudaja,hrudaja,h r u d a j a,LOAN,KolipakamFW,,true,^ h r u d a j a $,default
@@ -936,14 +936,14 @@ Gondi-44_knee-1,925,Gondi,44_knee,tongɾa,tongɾa,t o n g ɾ a,,KolipakamFW,,fal
 Ollari_Gadba-44_knee-1,926,Ollari_Gadba,44_knee,ʋangul,ʋangul,ʋ a n g u l,,KolipakamFW,,false,^ ʋ a n g u l $,default
 Brahui-44_knee-1,927,Brahui,44_knee,go:ɖ,go:ɖ,g oː ɖ,,KolipakamFW,,false,^ g o: ɖ $,default
 Badga-45_know-1,928,Badga,45_know,aɾaʋə,aɾaʋə,a ɾ a ʋ ə,,KolipakamFW,,false,^ a ɾ a ʋ ə $,default
-Kannada-45_know-1,929,Kannada,45_know,ari-,ari-,a r i +,,Andronov1964,,false,^ a r i - $,default
+Kannada-45_know-1,929,Kannada,45_know,ari-,ari-,a r i,,Andronov1964,,false,^ a r i -$,default
 Kodava-45_know-1,930,Kodava,45_know,aɾi,aɾi,a ɾ i,,KolipakamFW,,false,^ a ɾ i $,default
 Malayalam-45_know-1,931,Malayalam,45_know,aɾajuga,aɾajuga,a ɾ a j u g a,,KolipakamFW,,false,^ a ɾ a j u g a $,default
-Tamil-45_know-1,932,Tamil,45_know,aṟi-,aṟi-,a r̪ i +,,Andronov1964,,false,^ a ṟ i - $,default
-Telugu-45_know-1,933,Telugu,45_know,eṟāgu-,eṟāgu-,e r̪ aː g u +,,Andronov1964,,false,^ e ṟ ā g u - $,default
+Tamil-45_know-1,932,Tamil,45_know,aṟi-,aṟi-,a r̪ i,,Andronov1964,,false,^ a ṟ i -$,default
+Telugu-45_know-1,933,Telugu,45_know,eṟāgu-,eṟāgu-,e r̪ aː g u,,Andronov1964,,false,^ e ṟ ā g u -$,default
 Toda-45_know-1,934,Toda,45_know,aɾspini,aɾspini,a ɾ s p i n i,,KolipakamFW,,false,^ a ɾ s p i n i $,default
 Yeruva-45_know-1,935,Yeruva,45_know,aɾiʋo,aɾiʋo,a ɾ i ʋ o,,KolipakamFW,,false,^ a ɾ i ʋ o $,default
-Parji-45_know-1,936,Parji,45_know,pun-,pun-,p u n +,,Andronov1964,,false,^ p u n - $,default
+Parji-45_know-1,936,Parji,45_know,pun-,pun-,p u n,,Andronov1964,,false,^ p u n -$,default
 Kurukh-45_know-1,937,Kurukh,45_know,akʰna,akʰna,a kʰ n a,,KolipakamFW,,false,^ a kʰ n a $,default
 Malto-45_know-1,938,Malto,45_know,ha:hpo,ha:hpo,h aː h p o,,KolipakamFW,,false,^ h a: h p o $,default
 Kannada-45_know-2,939,Kannada,45_know,telidiko,telidiko,t e l i d i k o,,KolipakamFW,,false,^ t e l i d i k o $,default
@@ -988,7 +988,7 @@ Tamil-47_lie-1,977,Tamil,47_lie,keɖə,keɖə,k e ɖ ə,,Andronov1964,,false,^ k
 Kannada-47_lie-1,978,Kannada,47_lie,malagu,malagu,m a l a g u,,Andronov1964,,false,^ m a l a g u $,default
 Gondi-47_lie-1,979,Gondi,47_lie,miɳɖsi,miɳɖsi,m i ɳ ɖ s i,,KolipakamFW,,false,^ m i ɳ ɖ s i $,default
 Kolami-47_lie-1,980,Kolami,47_lie,laba:ɖ muɖsati,laba:ɖ muɖsati,l a b aː ɖ + m u ɖ s a t i,,KolipakamFW,,false,^ l a b a: ɖ + m u ɖ s a t i $,default
-Parji-47_lie-1,981,Parji,47_lie,maḍ-,maḍ-,m a ɖ +,,Andronov1964,,false,^ m a ḍ - $,default
+Parji-47_lie-1,981,Parji,47_lie,maḍ-,maḍ-,m a ɖ,,Andronov1964,,false,^ m a ḍ -$,default
 Koya-47_lie-1,982,Koya,47_lie,undʒa,undʒa,u n dʒ a,,KolipakamFW,,false,^ u n dʒ a $,default
 Badga-47_lie-1,983,Badga,47_lie,haɖaʋə,haɖaʋə,h a ɖ a ʋ ə,,KolipakamFW,,false,^ h a ɖ a ʋ ə $,default
 Toda-47_lie-1,984,Toda,47_lie,poaʈtʃi:,poaʈtʃi:,p o a ʈ tʃ iː,,KolipakamFW,,false,^ p o a ʈ tʃ i: $,default
@@ -1385,7 +1385,7 @@ Kurukh-66_red-1,1373,Kurukh,66_red,kheso,kheso,k h e s o,,KolipakamFW,,false,^ k
 Malayalam-66_red-1,1374,Malayalam,66_red,tʃumappə,tʃumappə,tʃ u m a pː ə,,KolipakamFW,,false,^ tʃ u m a pp ə $,default
 Malto-66_red-1,1375,Malto,66_red,e:so,e:so,eː s o,,KolipakamFW,,false,^ e: s o $,default
 Parji-66_red-1,1376,Parji,66_red,key,key,k e y,,Andronov1964,,false,^ k e y $,default
-Tamil-66_red-1,1377,Tamil,66_red,ce-m-,ce-m-,c e + m +,,Andronov1964,,false,^ c e - m - $,default
+Tamil-66_red-1,1377,Tamil,66_red,ce-m-,ce-m-,c e + m,,Andronov1964,,false,^ c e - m -$,default
 Tamil-66_red-2,1378,Tamil,66_red,seʋappə,seʋappə,s e ʋ a pː ə,,KolipakamFW,,false,^ s e ʋ a pp ə $,default
 Tamil-66_red-3,1379,Tamil,66_red,segappə,segappə,s e g a pː ə,,KolipakamFW,,false,^ s e g a pp ə $,default
 Toda-66_red-1,1380,Toda,66_red,keppə,keppə,k e pː ə,,KolipakamFW,,false,^ k e pp ə $,default
@@ -1445,7 +1445,7 @@ Brahui-68_root-1,1433,Brahui,68_root,ɾo:tƐ,ɾo:tƐ,ɾ oː t ɛ,,KolipakamFW,,f
 Gondi-68_root-1,1434,Gondi,68_root,hi:ɾ,hi:ɾ,h iː ɾ,,KolipakamFW,,false,^ h i: ɾ $,default
 Kannada-69_round-1,1435,Kannada,69_round,baṭṭa,baṭṭa,b a ʈː a,LOAN,Andronov1964,,true,^ b a ṭṭ a $,default
 Kota-69_round-1,1436,Kota,69_round,ʋaʈam,ʋaʈam,ʋ a ʈ a m,LOAN,KolipakamFW,,true,^ ʋ a ʈ a m $,default
-Malayalam-69_round-1,1437,Malayalam,69_round,vaṭṭa-,vaṭṭa-,v a ʈː a +,LOAN,Andronov1964,,true,^ v a ṭṭ a - $,default
+Malayalam-69_round-1,1437,Malayalam,69_round,vaṭṭa-,vaṭṭa-,v a ʈː a,LOAN,Andronov1964,,true,^ v a ṭṭ a -$,default
 Tamil-69_round-1,1438,Tamil,69_round,ʋaʈʈam,ʋaʈʈam,ʋ a ʈː a m,LOAN,Andronov1964,,true,^ ʋ a ʈʈ a m $,default
 Gondi-69_round-1,1439,Gondi,69_round,guɳɖɾal,guɳɖɾal,g u ɳ ɖ ɾ a l,,KolipakamFW,,false,^ g u ɳ ɖ ɾ a l $,default
 Koya-69_round-1,1440,Koya,69_round,guɳɖɾa:n,guɳɖɾa:n,g u ɳ ɖ ɾ aː n,,KolipakamFW,,false,^ g u ɳ ɖ ɾ a: n $,default
@@ -1491,7 +1491,7 @@ Kannada-71_say-1,1479,Kannada,71_say,heɭu,heɭu,h e ɭ u,,Andronov1964,,false,^
 Telugu-71_say-1,1480,Telugu,71_say,tʃeppu,tʃeppu,tʃ e pː u,,KolipakamFW,,false,^ tʃ e pp u $,default
 Gondi-71_say-1,1481,Gondi,71_say,in,in,i n,,KolipakamFW,,false,^ i n $,default
 Kodava-71_say-1,1482,Kodava,71_say,annə,annə,a nː ə,,KolipakamFW,,false,^ a nn ə $,default
-Parji-71_say-1,1483,Parji,71_say,en-,en-,e n +,,Andronov1964,,false,^ e n - $,default
+Parji-71_say-1,1483,Parji,71_say,en-,en-,e n,,Andronov1964,,false,^ e n -$,default
 Betta_Kurumba-71_say-1,1484,Betta_Kurumba,71_say,pə:ɭ,pə:ɭ,p əː ɭ,,KolipakamFW,,false,^ p ə: ɭ $,default
 Koya-71_say-1,1485,Koya,71_say,kella,kella,k e lː a,,KolipakamFW,,false,^ k e ll a $,default
 Badga-71_say-1,1486,Badga,71_say,egəʋə,egəʋə,e g ə ʋ ə,,KolipakamFW,,false,^ e g ə ʋ ə $,default
@@ -1502,7 +1502,7 @@ Kurukh-71_say-1,1490,Kurukh,71_say,bakʰna,bakʰna,b a kʰ n a,,KolipakamFW,,fal
 Kota-71_say-1,1491,Kota,71_say,paidu,paidu,p a i d u,,KolipakamFW,,false,^ p a i d u $,default
 Malto-71_say-1,1492,Malto,71_say,hauɖpo,hauɖpo,h a u ɖ p o,,KolipakamFW,,false,^ h a u ɖ p o $,default
 Malayalam-72_see-1,1493,Malayalam,72_see,ka:ɳuka,ka:ɳuka,k aː ɳ u k a,,KolipakamFW,,false,^ k a: ɳ u k a $,default
-Tamil-72_see-1,1494,Tamil,72_see,kāṇ-,kāṇ-,k aː ɳ +,,Andronov1964,,false,^ k ā ṇ - $,default
+Tamil-72_see-1,1494,Tamil,72_see,kāṇ-,kāṇ-,k aː ɳ,,Andronov1964,,false,^ k ā ṇ -$,default
 Badga-72_see-1,1495,Badga,72_see,no:ɖə,no:ɖə,n oː ɖ ə,,KolipakamFW,,false,^ n o: ɖ ə $,default
 Betta_Kurumba-72_see-1,1496,Betta_Kurumba,72_see,no:ɖ ~ najɾ,no:ɖ,n oː ɖ,,KolipakamFW,,false,^ n o: ɖ $,default
 Betta_Kurumba-72_see-2,1496,Betta_Kurumba,72_see,no:ɖ ~ najɾ,najɾ,n a j ɾ,,KolipakamFW,,false,^ n a j ɾ $,default
@@ -1593,14 +1593,14 @@ Betta_Kurumba-76_sleep-2,1578,Betta_Kurumba,76_sleep,aɾgu ~ eɾgu,eɾgu,e ɾ g 
 Kodava-76_sleep-1,1579,Kodava,76_sleep,oɾa,oɾa,o ɾ a,,KolipakamFW,,false,^ o ɾ a $,default
 Kota-76_sleep-1,1580,Kota,76_sleep,oɾəgə,oɾəgə,o ɾ ə g ə,,KolipakamFW,,false,^ o ɾ ə g ə $,default
 Malayalam-76_sleep-1,1581,Malayalam,76_sleep,uɾanguga,uɾanguga,u ɾ a n g u g a,,Andronov1964,,false,^ u ɾ a n g u g a $,default
-Tamil-76_sleep-1,1582,Tamil,76_sleep,uṟaṅku-,uṟaṅku-,u r̪ a ŋ k u +,,Andronov1964,,false,^ u ṟ a ṅ k u - $,default
+Tamil-76_sleep-1,1582,Tamil,76_sleep,uṟaṅku-,uṟaṅku-,u r̪ a ŋ k u,,Andronov1964,,false,^ u ṟ a ṅ k u -$,default
 Toda-76_sleep-1,1583,Toda,76_sleep,oɾkʰə,oɾkʰə,o ɾ kʰ ə,,KolipakamFW,,false,^ o ɾ kʰ ə $,default
 Yeruva-76_sleep-1,1584,Yeruva,76_sleep,oɾa,oɾa,o ɾ a,,KolipakamFW,,false,^ o ɾ a $,default
-Kannada-76_sleep-1,1585,Kannada,76_sleep,malagu-,malagu-,m a l a g u +,,Andronov1964,,false,^ m a l a g u - $,default
+Kannada-76_sleep-1,1585,Kannada,76_sleep,malagu-,malagu-,m a l a g u,,Andronov1964,,false,^ m a l a g u -$,default
 Kannada-76_sleep-2,1586,Kannada,76_sleep,nidriso,nidriso,n i d r i s o,LOAN,KolipakamFW,,true,^ n i d r i s o $,default
 Telugu-76_sleep-1,1587,Telugu,76_sleep,nidɾapoʋu,nidɾapoʋu,n i d ɾ a p o ʋ u,LOAN,KolipakamFW,,true,^ n i d ɾ a p o ʋ u $,default
 Gondi-76_sleep-1,1588,Gondi,76_sleep,mi:ɳɖa,mi:ɳɖa,m iː ɳ ɖ a,,KolipakamFW,,false,^ m i: ɳ ɖ a $,default
-Parji-76_sleep-1,1589,Parji,76_sleep,maḍ-,maḍ-,m a ɖ +,,Andronov1964,,false,^ m a ḍ - $,default
+Parji-76_sleep-1,1589,Parji,76_sleep,maḍ-,maḍ-,m a ɖ,,Andronov1964,,false,^ m a ḍ -$,default
 Kurukh-76_sleep-1,1590,Kurukh,76_sleep,khandaɾna,khandaɾna,k h a n d a ɾ n a,,KolipakamFW,,false,^ k h a n d a ɾ n a $,default
 Malto-76_sleep-1,1591,Malto,76_sleep,andaɾpo ko:ɖa,andaɾpo ko:ɖa,a n d a ɾ p o + k oː ɖ a,,KolipakamFW,,false,^ a n d a ɾ p o + k o: ɖ a $,default
 Tamil-76_sleep-2,1592,Tamil,76_sleep,tu:ngə,tu:ngə,t uː n g ə,,KolipakamFW,,false,^ t u: n g ə $,default
@@ -1661,7 +1661,7 @@ Koya-79_stand-2,1646,Koya,79_stand,nilliman,nilliman,n i lː i m a n,,KolipakamF
 Kurukh-79_stand-1,1647,Kurukh,79_stand,idʒdʒna,idʒdʒna,i dʒː n a,,KolipakamFW,,false,^ i dʒdʒ n a $,default
 Malayalam-79_stand-1,1648,Malayalam,79_stand,nilkuga,nilkuga,n i l k u g a,,Andronov1964,,false,^ n i l k u g a $,default
 Malto-79_stand-1,1649,Malto,79_stand,hilpo,hilpo,h i l p o,,KolipakamFW,,false,^ h i l p o $,default
-Parji-79_stand-1,1650,Parji,79_stand,nilp-,nilp-,n i l p +,,Andronov1964,,false,^ n i l p - $,default
+Parji-79_stand-1,1650,Parji,79_stand,nilp-,nilp-,n i l p,,Andronov1964,,false,^ n i l p -$,default
 Tamil-79_stand-1,1651,Tamil,79_stand,nil,nil,n i l,,Andronov1964,,false,^ n i l $,default
 Telugu-79_stand-1,1652,Telugu,79_stand,niltʃonu,niltʃonu,n i l tʃ o n u,,KolipakamFW,,false,^ n i l tʃ o n u $,default
 Telugu-79_stand-2,1653,Telugu,79_stand,nilabaɖu,nilabaɖu,n i l a b a ɖ u,,KolipakamFW,,false,^ n i l a b a ɖ u $,default
@@ -1956,7 +1956,7 @@ Tamil-93_warm-1,1941,Tamil,93_warm,ʋedəʋedəppə,ʋedəʋedəppə,ʋ e d ə �
 Telugu-93_warm-1,1942,Telugu,93_warm,ʋetʃtʃa,ʋetʃtʃa,ʋ e tʃː a,,KolipakamFW,,false,^ ʋ e tʃtʃ a $,default
 Tulu-93_warm-1,1943,Tulu,93_warm,betʃtʃa,betʃtʃa,b e tʃː a,,KolipakamFW,,false,^ b e tʃtʃ a $,default
 Yeruva-93_warm-1,1944,Yeruva,93_warm,bekki,bekki,b e kː i,,KolipakamFW,,false,^ b e kk i $,default
-Malayalam-93_warm-1,1945,Malayalam,93_warm,uṣṇa-,uṣṇa-,u ʂ ɳ a +,LOAN,Andronov1964,,true,^ u ṣ ṇ a - $,default
+Malayalam-93_warm-1,1945,Malayalam,93_warm,uṣṇa-,uṣṇa-,u ʂ ɳ a,LOAN,Andronov1964,,true,^ u ṣ ṇ a -$,default
 Betta_Kurumba-93_warm-1,1946,Betta_Kurumba,93_warm,su:ɖə,su:ɖə,s uː ɖ ə,,KolipakamFW,,false,^ s u: ɖ ə $,default
 Tamil-93_warm-2,1947,Tamil,93_warm,su:ɖə,su:ɖə,s uː ɖ ə,,KolipakamFW,,false,^ s u: ɖ ə $,default
 Badga-93_warm-1,1948,Badga,93_warm,uppekke,uppekke,u pː e kː e,,KolipakamFW,,false,^ u pp e kk e $,default

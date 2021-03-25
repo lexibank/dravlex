@@ -8,7 +8,7 @@
     ],
     "dc:identifier": "https://zenodo.org/record/1181715",
     "dc:isVersionOf": null,
-    "dc:license": "CC BY-SA ",
+    "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "CLDF dataset derived from Kolipakam et al.'s \"DravLex:\" from 2018",
@@ -18,31 +18,31 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/dravlex",
-            "dc:created": "2b1cdbb"
+            "dc:created": "fcce844"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Glottolog",
-            "rdf:about": "https://github.com/glottolog/glottolog",
-            "dc:created": "v4.1"
+            "rdf:about": "https://github.com/glottolog/glottolog/",
+            "dc:created": "v4.3"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Concepticon",
             "rdf:about": "https://github.com/concepticon/concepticon-data",
-            "dc:created": "v2.3.0"
+            "dc:created": "v2.4.0"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "CLTS",
-            "rdf:about": "https://github.com/cldf-clts/clts",
-            "dc:created": "v1.4"
+            "rdf:about": "https://github.com/cldf-clts/clts/",
+            "dc:created": "v2.0.0"
         }
     ],
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.7.0"
+            "dc:description": "3.9.2"
         },
         {
             "dc:title": "python-packages",

@@ -1,5 +1,7 @@
 Grapheme	IPA	FREQUENCY	CODEPOINTS	EXAMPLES
 -	+	27	U+002D	karu-,malagu-,un-
+-$	NULL
+^-	NULL
 M	m	1	U+004D	Ma:ta
 a	a	1378	U+0061	ajindi,betʃtʃa,ɖollatam
 b	b	182	U+0062	be:ɖo,beʂoling,gubal

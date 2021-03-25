@@ -1,0 +1,37 @@
+{
+    "title": "CLDF dataset derived from Kolipakam et al.'s \"DravLex:\" from 2018",
+    "access_right": "open",
+    "keywords": [
+        "cldf:Wordlist",
+        "linguistics"
+    ],
+    "creators": [
+        {
+            "name": "Kolipakam, Vishnupriya"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Simon J. Greenhill",
+            "type": "Other"
+        },
+        {
+            "name": "Tiago Tresoldi",
+            "type": "Other"
+        },
+        {
+            "name": "Johann-Mattis List",
+            "type": "Other"
+        }
+    ],
+    "communities": [
+        {
+            "identifier": "lexibank"
+        }
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Kolipakam, Vishnupriya, Michael Dunn, Fiona M. Jordan &amp; Annemarie Verkerk. (2018). DravLex: A Dravidian lexical database. Max Planck Institute for Psycholinguistics, Nijmegen, The Netherlands.</p>\n</blockquote>",
+    "license": {
+        "id": "CC-BY-4.0"
+    }
+}
