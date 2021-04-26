@@ -18,12 +18,12 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/dravlex",
-            "dc:created": "fcce844"
+            "dc:created": "ac0118d"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Glottolog",
-            "rdf:about": "https://github.com/glottolog/glottolog/",
+            "rdf:about": "https://github.com/glottolog/glottolog",
             "dc:created": "v4.3"
         },
         {
