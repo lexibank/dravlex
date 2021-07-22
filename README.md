@@ -1,8 +1,16 @@
 # CLDF dataset derived from Kolipakam et al.'s "DravLex:" from 2018
 
-Cite the source dataset as
+[![CLDF validation](https://github.com/lexibank/dravlex/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/dravlex/actions?query=workflow%3ACLDF-validation)
 
-> Kolipakam, Vishnupriya, Michael Dunn, Fiona M. Jordan & Annemarie Verkerk. (2018). DravLex: A Dravidian lexical database. Max Planck Institute for Psycholinguistics, Nijmegen, The Netherlands.
+## How to cite
+
+If you use these data please cite
+- the original source
+  > Kolipakam, Vishnupriya, Michael Dunn, Fiona M. Jordan & Annemarie Verkerk. (2018). DravLex: A Dravidian lexical database. Max Planck Institute for Psycholinguistics, Nijmegen, The Netherlands.
+- the derived dataset using the DOI of the [particular released version](../../releases/) you were using
+
+## Description
+
 
 This dataset is licensed under a CC-BY-4.0 license
 
@@ -14,7 +22,7 @@ Conceptlists in Concepticon:
 ## Statistics
 
 
-[![Build Status](https://travis-ci.org/lexibank/dravlex.svg?branch=master)](https://travis-ci.org/lexibank/dravlex)
+[![CLDF validation](https://github.com/lexibank/dravlex/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/dravlex/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
@@ -43,3 +51,10 @@ Tiago Tresoldi     | @tresoldi       | profile                              | Ot
 Johann-Mattis List | @lingulist | corrections | Other
 
 
+
+
+## CLDF Datasets
+
+The following CLDF datasets are available in [cldf](cldf):
+
+- CLDF [Wordlist](https://github.com/cldf/cldf/tree/master/modules/Wordlist) at [cldf/cldf-metadata.json](cldf/cldf-metadata.json)
