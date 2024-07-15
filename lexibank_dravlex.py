@@ -18,7 +18,6 @@ class CustomLanguage(Language):
     word_count = attr.ib(default=None)
 
 
-
 class Dataset(BaseDataset):
     dir = Path(__file__).parent
     id = "dravlex"
@@ -34,12 +33,10 @@ class Dataset(BaseDataset):
 
     def cmd_makecldf(self, args):
         dsdir = self.dir / 'raw' / 'Verkerk-DravLex-622ac6e'
-        dataset = Wordlist.from_metadata(dsdir / 'Wordlist-metadata.json')
 
         # load concepts
         concepts = args.writer.add_concepts(
-            id_factory=lambda c: c.id.split('-')[-1]+ '_' + slug(c.english),
-             lookup_factory="Name"
+            id_factory=lambda c: c.id.split('-')[-1]+ '_' + slug(c.english), lookup_factory="Name"
         )
 
         # load sources from original CLDF, and then the fieldwork source
