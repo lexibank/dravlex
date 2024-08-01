@@ -29,8 +29,8 @@ Conceptlists in Concepticon:
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 20
-- **Concepts:** 100
+- **Varieties:** 20 (linked to 20 different Glottocodes)
+- **Concepts:** 100 (linked to 100 different Concepticon concept sets)
 - **Lexemes:** 2,127
 - **Sources:** 3
 - **Synonymy:** 1.14
@@ -38,7 +38,7 @@ Conceptlists in Concepticon:
 - **Cognate Diversity:** 0.33
 - **Invalid lexemes:** 0
 - **Tokens:** 10,075
-- **Segments:** 75 (0 BIPA errors, 0 CTLS sound class errors, 75 CLTS modified)
+- **Segments:** 75 (0 BIPA errors, 0 CLTS sound class errors, 75 CLTS modified)
 - **Inventory size (avg):** 41.35
 
 # Contributors
@@ -46,9 +46,9 @@ Conceptlists in Concepticon:
 Name               | GitHub user     | Description                          | Role
 ---                | ---             | ---                                  | ---
 Kolipakam, Vishnupriya | | data collection | Author
-Simon J. Greenhill | @SimonGreenhill | patron                               | Other
+Simon J. Greenhill | @SimonGreenhill | patron                               | Editor
+Johann-Mattis List | @lingulist | corrections | Editor
 Tiago Tresoldi     | @tresoldi       | profile                              | Other
-Johann-Mattis List | @lingulist | corrections | Other
 
 
 
