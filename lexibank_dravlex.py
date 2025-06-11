@@ -62,6 +62,7 @@ class Dataset(BaseDataset):
                 Value=row['Form'],
                 Source=src,
                 Comment=row['status'],
+                Cognacy=cog['Cognateset_ID'],
                 Loan=True if row['status'] else False
             ):
                 args.writer.add_cognate(
